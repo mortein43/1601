@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1601 dll-виклик", "1601 dll-виклик.csproj", "{70D05B26-73F7-4BC4-9B92-080CFC8FE378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D05B26-73F7-4BC4-9B92-080CFC8FE378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D05B26-73F7-4BC4-9B92-080CFC8FE378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D05B26-73F7-4BC4-9B92-080CFC8FE378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D05B26-73F7-4BC4-9B92-080CFC8FE378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA67909-A4A6-409A-BC30-ECBAB0556E7D}
+	EndGlobalSection
+EndGlobal
